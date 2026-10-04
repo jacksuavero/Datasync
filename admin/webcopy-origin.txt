@@ -1,0 +1,416 @@
+Uri: https://demo.adminkit.io/index.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\index.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\index.htm
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/img/icons/icon-48x48.png
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\icon-48x48.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\css2.css
+Content Type: text/css
+
+Uri: https://demo.adminkit.io/css/light.css
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\css\light.css
+Content Type: text/css
+
+Uri: https://demo.adminkit.io/pages-profile.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-profile.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-settings.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-settings.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-ecommerce.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\dashboard-ecommerce.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/dashboard-crypto.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\dashboard-crypto.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-projects.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-projects.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-clients.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-clients.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-pricing.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-pricing.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-chat.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-chat.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-blank.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-blank.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-invoice.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-invoice.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-tasks.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-tasks.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/calendar.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\calendar.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-in.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-sign-in.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-sign-up.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-sign-up.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-reset-password.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-reset-password.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-404.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-404.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/pages-500.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pages-500.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-alerts.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-alerts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-buttons.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-cards.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-cards.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-general.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-general.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-grid.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-grid.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-modals.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-modals.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-offcanvas.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-tabs.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-tabs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/ui-typography.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\ui-typography.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-feather.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\icons-feather.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/icons-font-awesome.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\icons-font-awesome.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-basic-inputs.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-basic-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-layouts.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-layouts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-input-groups.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-input-groups.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-bootstrap.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-bootstrap.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-advanced-inputs.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-advanced-inputs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-editors.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-editors.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/forms-validation.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\forms-validation.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-responsive.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-responsive.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-buttons.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-buttons.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-column-search.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-column-search.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-fixed-header.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-fixed-header.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-multi.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-multi.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/tables-datatables-ajax.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\tables-datatables-ajax.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-chartjs.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\charts-chartjs.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/charts-apexcharts.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\charts-apexcharts.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/notifications.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\notifications.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-google.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\maps-google.html
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/maps-vector.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\maps-vector.html
+Content Type: text/html
+
+Uri: https://adminkit.io/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\index-1.htm
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/js/settings.js
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\js\settings.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-120946860-10
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/img/avatars/avatar.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\avatars\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-5.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\avatars\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-2.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\avatars\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-4.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\avatars\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/avatars/avatar-3.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\avatars\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/flags/us.png
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\flags\us.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/es.png
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\flags\es.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/ru.png
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\flags\ru.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/flags/de.png
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\flags\de.png
+Content Type: image/png
+
+Uri: https://demo.adminkit.io/img/icons/brand-1.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\brand-1.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-2.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\brand-2.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-3.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\brand-3.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-4.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\brand-4.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/icons/brand-5.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\icons\brand-5.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/js/app.js
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\js\app.js
+Content Type: application/javascript
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.eot
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.eot?
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.woff2
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.woff
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.ttf
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-brands-400.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.eot
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.eot?
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.woff2
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.woff
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.ttf
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-regular-400.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.eot
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.eot?
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.woff2
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.woff
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.ttf
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://demo.adminkit.io/fonts/fa-solid-900.svg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-1.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\photos\unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-2.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\photos\unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://adminkit.io/pricing/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\pricing\index.htm
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/img/photos/unsplash-3.jpg
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\img\photos\unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.adminkit.io/js/fullcalendar.js
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\js\fullcalendar.js
+Content Type: application/javascript
+
+Uri: https://datatables.net/extensions/responsive/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\extensions\responsive\index.htm
+Content Type: text/html
+
+Uri: https://demo.adminkit.io/js/datatables.js
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\js\datatables.js
+Content Type: application/javascript
+
+Uri: https://datatables.net/extensions/buttons/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\extensions\buttons\index.htm
+Content Type: text/html
+
+Uri: https://datatables.net/examples/api/multi_filter.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\examples\api\multi_filter.html
+Content Type: text/html
+
+Uri: https://datatables.net/examples/api/multi_filter_select.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\examples\api\multi_filter_select.html
+Content Type: text/html
+
+Uri: https://datatables.net/extensions/fixedheader/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\extensions\fixedheader\index.htm
+Content Type: text/html
+
+Uri: https://datatables.net/extensions/select/examples/initialisation/multi.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\extensions\select\examples\initialisation\multi.html
+Content Type: text/html
+
+Uri: https://datatables.net/examples/data_sources/ajax.html
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\examples\data_sources\ajax.html
+Content Type: text/html
+
+Uri: https://github.com/caroso1222/notyf
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\caroso1222\notyf.html
+Content Type: text/html
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDTU0Z-xRPDiH08db7P7QASdJ5pASq2CH4&callback=initMaps
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\maps\api\js
+Content Type: text/javascript
+
+Uri: https://github.com/themustafaomar/jsvectormap
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\themustafaomar\jsvectormap.html
+Content Type: text/html
+
+Uri: https://getbootstrap.com/docs/5.0/forms/validation/
+File Name: C:\Users\SoengSouy\Desktop\demo.adminkit.io\docs\5.0\forms\validation\index.htm
+Content Type: text/html
+
